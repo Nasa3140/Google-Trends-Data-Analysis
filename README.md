@@ -3,6 +3,9 @@
 
 A python code to extract & analysis [Google Trends](https://trends.google.com/trends/explore?date=today%203-m&geo=IN&q=python&hl=en-US) data for daily search using country["india"] on keyword ["Python"] and then uses the Pandas library to perform some basic analysis on the data:
 
+<img width="371" alt="Result" src="https://user-images.githubusercontent.com/27519031/233078350-af8419e9-93be-4216-98b0-5a54181a1a3d.png">
+
+<img width="280" alt="Res" src="https://user-images.githubusercontent.com/27519031/233078389-a3ace1af-521d-4d0c-b5f3-88360755842e.png">
 
 ## Suggestions
 
